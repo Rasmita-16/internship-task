@@ -9,7 +9,7 @@ package task1;
  */
 /**
  *
- * @author K DEEPTIRANI
+ * @author RASMITA MAHAPATRO
  */
 public class mycal extends javax.swing.JFrame {
     double num1=0,num2=0;
